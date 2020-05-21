@@ -1,6 +1,7 @@
 {
   "users": [
-    { "email": 1, "pw": "Post 1" }
+    { "email": 1, "pw": "Post 1" },
+    { "email": "2@2.com", "pw": "Post2311" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
